@@ -13,6 +13,6 @@ public class Team {
         System.out.println("localb => remoteb");
         System.out.println("localb => remoteb2");
         
-        ыпаып
+
     }
 }
