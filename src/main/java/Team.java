@@ -11,5 +11,6 @@ public class Team {
         System.out.println("Hello from branch developer1");
         System.out.println("This is local branch");
         System.out.println("localb => remoteb");
+        System.out.println("localb => remoteb2");
     }
 }
