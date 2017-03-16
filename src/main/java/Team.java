@@ -8,6 +8,5 @@ public class Team {
         System.out.println("Job developer 1");
         System.out.println("Job developer 2");
         System.out.println("Job developer 2");
-        System.out.println("Hello from branch master");
     }
 }
